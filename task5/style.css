@@ -1,0 +1,12 @@
+#button_clear {
+   background-color: purple;
+   color: white;
+}
+
+#input_text {
+   border-color: purple;
+}
+
+form {
+   margin-top: 30px;
+}
